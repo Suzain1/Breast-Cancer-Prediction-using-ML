@@ -1,5 +1,5 @@
 🩺 Breast Cancer Prediction Model
-  This repository contains a Python script for predicting breast cancer using various machine learning algorithms. The code is designed to load a dataset, preprocess the data, train multiple models, and evaluate    their performance.
+	This repository contains a Python script for predicting breast cancer using various machine learning algorithms. The code is designed to load a dataset, preprocess the data, train multiple models, and evaluate their performance.
 
 📁 File Structure
 
