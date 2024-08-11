@@ -1,5 +1,6 @@
 🩺 Breast Cancer Prediction Model
-	This repository contains a Python script for predicting breast cancer using various machine learning algorithms. The code is designed to load a dataset, preprocess the data, train multiple models, and evaluate their performance.
+
+This repository contains a Python script for predicting breast cancer using various machine learning algorithms. The code is designed to load a dataset, preprocess the data, train multiple models, and evaluate their performance.
 
 📁 File Structure
 
@@ -36,5 +37,6 @@ Accuracy Score: A measure of the correctness of the predictions.
 Classification Report: Includes precision, recall, and F1-score for each class.
 
 Confusion Matrix: A matrix showing the true vs predicted classifications.
+
 Visualizations such as confusion matrices are also plotted using Seaborn and Matplotlib.
 
